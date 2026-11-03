@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="28" height="12" viewBox="0 0 28 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Estado visual">
+<path id="Sess&#195;&#163;o atual" d="M9.25 6C9.25 8.34721 7.34721 10.25 5 10.25C2.65279 10.25 0.75 8.34721 0.75 6C0.75 3.65279 2.65279 1.75 5 1.75C7.34721 1.75 9.25 3.65279 9.25 6Z" stroke-width="1.5" stroke="#222020"/>
+<path id="Dispon&#195;&#173;vel" d="M27.25 6C27.25 8.34721 25.3472 10.25 23 10.25C20.6528 10.25 18.75 8.34721 18.75 6C18.75 3.65279 20.6528 1.75 23 1.75C25.3472 1.75 27.25 3.65279 27.25 6Z" fill="#222020" stroke-width="1.5" stroke="#222020"/>
+</g>
+</svg>

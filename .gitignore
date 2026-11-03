@@ -1,0 +1,107 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Generated native projects and build caches
+/ios/
+/android/
+.kotlin/
+.gradle/
+build/
+.cxx/
+local.properties
+
+# Signing credentials
+*.orig.*
+*.jks
+*.keystore
+*.p8
+*.p12
+*.pfx
+*.key
+*.pem
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# Logs and debug output
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+pnpm-debug.*
+logs/
+
+# OS and editor files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local environment and credentials (keep templates versionable)
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+!.env.*.example
+!.env.*.sample
+!.env.*.template
+.aws/
+.npmrc.local
+
+# TypeScript, tooling and test artifacts
+*.tsbuildinfo
+.eslintcache
+.cache/
+.turbo/
+.parcel-cache/
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+blob-report/
+tmp/
+temp/
+
+# Local AI agents, installed skills and tool state
+.agent/
+.agents/
+.codex/
+.claude/
+.cursor/
+.gemini/
+.opencode/
+.impeccable/
+.aider*
+.continue/
+.windsurf/
+.roo/
+.cline/
+skills/
+skills-lock.json
+AGENTS.md
+AGENTS.local.md
+CLAUDE.md
+CLAUDE.local.md
+GEMINI.md
+.cursorrules
+.cursorignore
+.windsurfrules
+
+# Generated design explorations, plans and QA captures
+/example/
+/design-demo/
+*/screenshots/*
+design-system-state-*.json
